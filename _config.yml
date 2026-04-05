@@ -2,8 +2,9 @@ title: "Florian Huber"
 name: "Florian Huber"
 email: florian.huber@plus.ac.at
 description: >-
-  Professor of Economics at the University of Salzburg, working on Bayesian
-  time series econometrics and its applications in macroeconomics and finance.
+  Professor of Economics at the University of Salzburg,
+  working on Bayesian time series econometrics and its
+  applications in macroeconomics and finance.
 baseurl: ""
 url: "https://fhuber7.github.io"
 repository: "fhuber7/fhuber7.github.io"
@@ -36,19 +37,19 @@ author:
   links:
     - label: "University of Salzburg"
       icon: "fas fa-fw fa-university"
-      url: "https://www.plus.ac.at/economics/"
+      url: "https://www.plus.ac.at/economics/people/faculty/florian-huber/?lang=en"
     - label: "florian.huber [at] plus.ac.at"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:florian.huber@plus.ac.at"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/"
+      url: "https://scholar.google.at/citations?user=-h_4GLkAAAAJ&hl=de"
     - label: "IDEAS / RePEc"
       icon: "fas fa-fw fa-chart-line"
-      url: "https://ideas.repec.org/"
+      url: "https://ideas.repec.org/f/phu448.html"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/"
+      url: "https://www.researchgate.net/profile/Florian-Huber?ev=hdr_xprf"
 
 # Footer
 footer:
