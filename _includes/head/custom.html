@@ -23,6 +23,28 @@
   .author__urls.social-icons li {
     background: transparent !important;
   }
+
+  /* Keep the sidebar visible on long pages (e.g. Publications).
+     On desktop widths, pin it in place instead of using sticky,
+     which stops working once the parent container ends. */
+  @media (min-width: 64em) {
+    .sidebar.sticky {
+      position: fixed !important;
+      top: 2em !important;
+    }
+  }
+
+  /* Center the face in the circular avatar.
+     The source photo is a portrait; crop/position it so the head
+     sits in the middle of the frame instead of leaning to the left. */
+  .sidebar .author__avatar img {
+    object-fit: cover !important;
+    object-position: 62% 30% !important;
+    aspect-ratio: 1 / 1 !important;
+    width: 110px !important;
+    height: 110px !important;
+    max-width: 110px !important;
+  }
 </style>
 <script>
   document.addEventListener('DOMContentLoaded', function () {
