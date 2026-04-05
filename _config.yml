@@ -30,12 +30,25 @@ plugins:
 author:
   name: "Florian Huber"
   avatar: "/assets/images/profile.png"
-  bio: "Professor of Economics<br/>University of Salzburg"
+  bio: "Professor of Economics<br/>University of Salzburg<br/><br/>Department of Economics<br/>Mönchsberg 2a<br/>5020 Salzburg"
   location: "Salzburg, Austria"
+  email: "florian.huber@plus.ac.at"
   links:
     - label: "University of Salzburg"
       icon: "fas fa-fw fa-university"
       url: "https://www.plus.ac.at/economics/"
+    - label: "florian.huber [at] plus.ac.at"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:florian.huber@plus.ac.at"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/"
+    - label: "IDEAS / RePEc"
+      icon: "fas fa-fw fa-chart-line"
+      url: "https://ideas.repec.org/"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/"
 
 # Footer
 footer:
