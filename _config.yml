@@ -1,2 +1,79 @@
-title: "Florian Huber"name: "Florian Huber"email: florian.huber@plus.ac.atdescription: >-  Professor of Economics at the University of Salzburg,  working on Bayesian time series econometrics and its  applications in macroeconomics and finance.baseurl: ""url: "https://fhuber7.github.io"repository: "fhuber7/fhuber7.github.io"# Theme: minimal-mistakes (the base for academicpages) via remote_themeremote_theme: "mmistakes/minimal-mistakes@master"minimal_mistakes_skin: "default"search: false# Build settingsmarkdown: kramdownhighlighter: rougepermalink: /:title/timezone: Europe/Viennaplugins:  - jekyll-include-cache  - jekyll-feed  - jekyll-seo-tag  - jekyll-remote-theme  - jekyll-sitemap# Author sidebar (left column on every page)author:  name: "Florian Huber"  avatar: "/assets/images/profile.jpg"  bio: "Professor of Economics<br/>University of Salzburg<br/><br/>Department of Economics<br/>Mönchsberg 2a<br/>5020 Salzburg"  location: "Salzburg, Austria"  email: "florian.huber@plus.ac.at"
-# rebuild trigger
+title: "Florian Huber"
+name: "Florian Huber"
+email: florian.huber@plus.ac.at
+description: >-
+  Professor of Economics at the University of Salzburg, working on Bayesian
+  time series econometrics and its applications in macroeconomics and finance.
+baseurl: ""
+url: "https://fhuber7.github.io"
+repository: "fhuber7/fhuber7.github.io"
+
+# Theme: minimal-mistakes (the base for academicpages) via remote_theme
+remote_theme: "mmistakes/minimal-mistakes@master"
+minimal_mistakes_skin: "default"
+search: false
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+timezone: Europe/Vienna
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+# Author sidebar (left column on every page)
+author:
+  name: "Florian Huber"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Professor of Economics<br/>University of Salzburg<br/><br/>Department of Economics<br/>Mönchsberg 2a<br/>5020 Salzburg"
+  location: "Salzburg, Austria"
+  email: "florian.huber@plus.ac.at"
+  links:
+    - label: "University of Salzburg"
+      icon: "fas fa-fw fa-university"
+      url: "https://www.plus.ac.at/economics/people/faculty/florian-huber/?lang=en"
+    - label: "florian.huber [at] plus.ac.at"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:florian.huber@plus.ac.at"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.at/citations?user=-h_4GLkAAAAJ&hl=de"
+    - label: "IDEAS / RePEc"
+      icon: "fas fa-fw fa-chart-line"
+      url: "https://ideas.repec.org/f/phu448.html"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Florian-Huber?ev=hdr_xprf"
+
+# Footer
+footer:
+  links:
+    - label: "University of Salzburg"
+      icon: "fas fa-fw fa-university"
+      url: "https://www.plus.ac.at/economics/"
+
+# Defaults applied to all top-level pages
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
+      read_time: false
+      share: false
+      related: false
+      comments: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
