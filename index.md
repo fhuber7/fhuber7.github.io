@@ -33,7 +33,7 @@ On this site you will find information on my [publications](/publications/), [wo
 
 ## Awards & Rankings
 
-- Winner of the 2024 Kurt-Zopf-Förderpreis awarded by the University of Salzburg
+- Winner of the 2024 Kurt-Zopf-FÃ¶rderpreis awarded by the University of Salzburg
 - 2023 Distinguished Author of the *Journal of Applied Econometrics*
 - Elected Fellow of the Society for Economic Measurement (SEM)
 - Best Paper Award of the *Scottish Journal of Political Economy*
@@ -42,9 +42,10 @@ On this site you will find information on my [publications](/publications/), [wo
 - Ordinary member of the European Academy of Sciences & Arts
 - Winner of the 2018 Young Economist Award of the Austrian Economic Association (NOeG)
 - *Wirtschaftswoche / Forschungsmonitoring* Ranking: Rank 28 (author ranking, 5 years); Rank 11 (young authors)
+- IDEAS RePEc Top Economists, Austria: Rank 23 (as of February 2026)
+- IDEAS RePEc Top Economists (worldwide, publications in last 10 years): Rank 516 (as of February 2026)
+- IDEAS RePEc Economist ranking by cohorts (worldwide, cohort of 2015): Rank 9 (as of February 2026)
 - IDEAS RePEc Top 100 Economists (worldwide, 5 years or less, 2018): Average rank 9
-- IDEAS RePEc Top 100 Economists (worldwide, 10 years or less): Top 20
-- IDEAS RePEc Economist ranking by cohorts (worldwide, cohort of 2014): Rank 5
 - Winner of the 2015 Stephan Koren Prize for the dissertation *"Bayesian Inference in Global Vector Autoregressive Models"* (WU Vienna)
 - Winner of the 2014 Young Economist Award of the Austrian Economic Association (NOeG)
 
