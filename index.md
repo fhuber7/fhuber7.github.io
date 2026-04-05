@@ -26,7 +26,7 @@ I am also deputy head of the Department of Economics, a scientific consultant to
 
 My research has been published in international top journals such as the *Journal of Business & Economic Statistics*, the *Journal of Econometrics*, the *International Economic Review*, the *Journal of Applied Econometrics*, and the *European Economic Review*, among others.
 
-On this site you will find information on my [publications](/publications/), [recent research](/research/), [CV](/cv/), [computer codes](/code/) and [teaching](/teaching/).
+On this site you will find information on my [publications](/publications/), [working papers](/working-papers/), [third-party funding](/research/), [CV](/cv/), [computer codes](/code/) and [teaching](/teaching/).
 
 </div>
 <aside class="home-aside" markdown="1">
