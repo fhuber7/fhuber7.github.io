@@ -6,14 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-<style>
-.sidebar {
-  background: transparent !important;
-  border: none !important;
-  padding: 0 !important;
-}
-</style>
-
 I am a **Professor of Economics at the University of Salzburg**, focusing on Bayesian time series econometrics and its applications in macroeconomics and finance. Prior to joining the University of Salzburg, I held an assistant professor position at WU Wien and worked as an economist in the foreign research division (AUSA) of the Oesterreichische Nationalbank (OeNB).
 
 I am also deputy head of the Department of Economics, a scientific consultant to the OeNB, the European Central Bank (ECB) and the European Commission, Associate Editor of the *Journal of Applied Econometrics* (from 2026) and the *International Journal of Forecasting*, Senior Scientist at the International Institute for Applied Systems Analysis (IIASA), and research fellow of the Baffi Center at Bocconi University.
