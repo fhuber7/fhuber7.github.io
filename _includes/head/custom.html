@@ -24,3 +24,15 @@
     background: transparent !important;
   }
 </style>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var links = document.querySelectorAll('.sidebar .author__urls a');
+    links.forEach(function (a) {
+      var href = a.getAttribute('href') || '';
+      if (href && href.indexOf('mailto:') !== 0 && href.charAt(0) !== '#') {
+        a.setAttribute('target', '_blank');
+        a.setAttribute('rel', 'noopener noreferrer');
+      }
+    });
+  });
+</script>
