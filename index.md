@@ -6,6 +6,13 @@ author_profile: true
 classes: wide
 ---
 
+<style>
+.sidebar {
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+}
+</style>
 
 I am a **Professor of Economics at the University of Salzburg**, focusing on Bayesian time series econometrics and its applications in macroeconomics and finance. Prior to joining the University of Salzburg, I held an assistant professor position at WU Wien and worked as an economist in the foreign research division (AUSA) of the Oesterreichische Nationalbank (OeNB).
 
