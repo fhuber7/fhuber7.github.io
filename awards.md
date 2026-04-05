@@ -5,16 +5,6 @@ permalink: /awards/
 author_profile: true
 ---
 
-<style>
-.sidebar.sticky,
-.page__sidebar,
-.sidebar {
-  background: #e6f3fa;
-  border: 1px solid #cfe6f2;
-  border-radius: 6px;
-  padding: 1rem 1.1rem;
-}
-</style>
 
 - Winner of the 2024 Kurt-Zopf-Förderpreis awarded by the University of Salzburg
 - 2023 Distinguished Author of the *Journal of Applied Econometrics*
