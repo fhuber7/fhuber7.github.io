@@ -1,0 +1,14 @@
+# Main top navigation (rendered by minimal-mistakes)
+main:
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "Research"
+    url: /research/
+  - title: "Code"
+    url: /code/
+  - title: "CV"
+    url: /cv/
+  - title: "Teaching"
+    url: /teaching/
