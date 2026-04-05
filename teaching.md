@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Teaching
+layout: single
+title: "Teaching"
 permalink: /teaching/
+author_profile: true
+classes: wide
 ---
 
 ## Undergraduate
@@ -21,4 +23,4 @@ permalink: /teaching/
 
 - Advanced Macroeconometrics — WU Vienna (Winter 2016/2017)
 - Advanced Macroeconometrics: Foundations (Winter 2017/2018)
-- Advanced Macroeconometrics: Applications: (Winter 2017/2018)
+- Advanced Macroeconometrics: Applications (Winter 2017/2018)

@@ -1,9 +1,10 @@
 ---
-layout: home
-title: Home
+layout: single
+title: "Home"
+permalink: /
+author_profile: true
+classes: wide
 ---
-
-# Florian Huber
 
 I am a **Professor of Economics at the University of Salzburg**, focusing on Bayesian time series econometrics and its applications in macroeconomics and finance. Prior to joining the University of Salzburg, I held an assistant professor position at WU Wien and worked as an economist in the foreign research division (AUSA) of the Oesterreichische Nationalbank (OeNB).
 

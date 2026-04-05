@@ -1,7 +1,9 @@
 ---
-layout: page
-title: CV
+layout: single
+title: "CV"
 permalink: /cv/
+author_profile: true
+classes: wide
 ---
 
 ## Professional experience

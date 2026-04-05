@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Publications
+layout: single
+title: "Publications"
 permalink: /publications/
+author_profile: true
+classes: wide
 ---
 
 ## Working papers under revision
@@ -96,7 +98,7 @@ permalink: /publications/
 - *A Shot for the US Economy*, with M. Gächter and M. Meier. **Finance Research Letters**, forthcoming.
 - *Predicting international equity returns: Evidence from time-varying parameter vector autoregressive models*, with R. Gupta and P. Piribauer. **International Review of Financial Analysis**, 68 (2020): ID 101456.
 - *The transmission of euro area interest rate shocks to Asia*, with M. Feldkircher. **Focus on European Economic Integration**.
-- *Macrofinancial Vulnerabilities in Emerging Europe*, with M. Eller and H. Schuberth. **Focus on European Economic Integration**, 1 (2016): 46–65.
+- *Macrofinancial Vulnerabilities in Emerging Europe*, with M. Eller and H. Schuberth. **Focus on European Economic Integration**, 1 (2016): 42–65.
 - *Modeling the evolution of monetary policy rules in CESEE*, with M. Feldkircher and I. Moder. **Focus on European Economic Integration**, 1 (2016): 8–27.
 - *Understanding the drivers of capital flows into the CESEE countries*, with M. Eller and H. Schuberth. **Focus on European Economic Integration**, 2 (2016): 79–104.
 - *Back to a New Normal: How Different Paths of US Monetary Policy Affect the World Economy*, with M. Feldkircher and I. Moder. **Economic Notes**, 44/3 (2015): 409–418.
@@ -105,5 +107,5 @@ permalink: /publications/
 
 ## Book chapters
 
-- *Factor Augmented Vector Autoregressions, Panel VARs, and Global VARs*, with M. Feldkircher and M. Pfarrhofer. Chapter 3 in *Macroeconomic Forecasting in the Era of Big Data*, ed. Peter Fuleky.
-- *Macroeconomic forecasting using BVARs*, with N. Hauzenberger, G. Koop. Chapter 2 in *Handbook of Research Methods and Applications in Macroeconomic Forecasting*, eds. Mike Clements and Ana Galvao.
+- *Factor Augmented Vector Autoregressions, Panel VARs, and Global VARs*, with M. Feldkircher and M. Pfarrhofer. Chapter 3 in *Macroeconomic Forecasting in the Era of Big Data* (Springer), ed. Peter Fuleky.
+- *Macroeconomic forecasting using BVARs*, with N. Hauzenberger and G. Koop. Chapter 2 in *Handbook of Research Methods and Applications in Macroeconomic Forecasting* (Edward Elgar), eds. Mike Clements and Ana Galvao.

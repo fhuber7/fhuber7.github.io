@@ -1,35 +1,66 @@
-title: Florian Huber
-tagline: Professor of Economics, University of Salzburg
-description: >-
-  Homepage of Florian Huber — Bayesian time series econometrics,
-  macroeconomics and finance.
-author: Florian Huber
+title: "Florian Huber"
+name: "Florian Huber"
 email: florian.huber@plus.ac.at
+description: >-
+  Professor of Economics at the University of Salzburg, working on Bayesian
+  time series econometrics and its applications in macroeconomics and finance.
+baseurl: ""
+url: "https://fhuber7.github.io"
+repository: "fhuber7/fhuber7.github.io"
 
-# Use the default GitHub Pages theme — zero build config needed.
-theme: minima
+# Theme: minimal-mistakes (the base for academicpages) via remote_theme
+remote_theme: "mmistakes/minimal-mistakes@master"
+minimal_mistakes_skin: "default"
+search: false
 
-minima:
-  skin: classic
-  nav_pages:
-    - publications.md
-    - research.md
-    - code.md
-    - cv.md
-    - teaching.md
-
-# Optional social links shown in the footer
-minima_social_links:
-  - { platform: google_scholar, user_url: "https://scholar.google.com/" }
-  - { platform: researchgate,   user_url: "https://www.researchgate.net/" }
-
-# Permalink style: pretty URLs without .html
-permalink: /:path/
-
-# Tell Jekyll where extra pages live
-include:
-  - _pages
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+timezone: Europe/Vienna
 
 plugins:
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+# Author sidebar (left column on every page)
+author:
+  name: "Florian Huber"
+  avatar: "/assets/images/profile.png"
+  bio: "Professor of Economics<br/>University of Salzburg"
+  location: "Salzburg, Austria"
+  links:
+    - label: "University of Salzburg"
+      icon: "fas fa-fw fa-university"
+      url: "https://www.plus.ac.at/economics/"
+
+# Footer
+footer:
+  links:
+    - label: "University of Salzburg"
+      icon: "fas fa-fw fa-university"
+      url: "https://www.plus.ac.at/economics/"
+
+# Defaults applied to all top-level pages
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
+      read_time: false
+      share: false
+      related: false
+      comments: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .sass-cache
+  - .jekyll-cache

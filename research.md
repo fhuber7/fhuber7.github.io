@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Recent research
+layout: single
+title: "Recent research"
 permalink: /research/
+author_profile: true
+classes: wide
 ---
 
 ## Current working papers

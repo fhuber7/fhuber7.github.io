@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Computer codes
+layout: single
+title: "Computer codes"
 permalink: /code/
+author_profile: true
+classes: wide
 ---
 
 This page contains replication codes for some of my papers, written in R and Rcpp. Most of them are easy to use and allow to replicate the main findings of the corresponding paper. Note that these models are fairly complex and some knowledge of Bayesian econometrics / statistics is needed to understand the effect of priors. I do not offer any support for these codes. Although I try to keep them error-free, I can't guarantee this — if you find an error, please contact me.
