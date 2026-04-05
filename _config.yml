@@ -1,0 +1,35 @@
+title: Florian Huber
+tagline: Professor of Economics, University of Salzburg
+description: >-
+  Homepage of Florian Huber — Bayesian time series econometrics,
+  macroeconomics and finance.
+author: Florian Huber
+email: florian.huber@plus.ac.at
+
+# Use the default GitHub Pages theme — zero build config needed.
+theme: minima
+
+minima:
+  skin: classic
+  nav_pages:
+    - publications.md
+    - research.md
+    - code.md
+    - cv.md
+    - teaching.md
+
+# Optional social links shown in the footer
+minima_social_links:
+  - { platform: google_scholar, user_url: "https://scholar.google.com/" }
+  - { platform: researchgate,   user_url: "https://www.researchgate.net/" }
+
+# Permalink style: pretty URLs without .html
+permalink: /:path/
+
+# Tell Jekyll where extra pages live
+include:
+  - _pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
