@@ -5,14 +5,6 @@ permalink: /awards/
 author_profile: true
 ---
 
-<style>
-.sidebar {
-  background: transparent !important;
-  border: none !important;
-  padding: 0 !important;
-}
-</style>
-
 - Winner of the 2024 Kurt-Zopf-Förderpreis awarded by the University of Salzburg
 - 2023 Distinguished Author of the *Journal of Applied Econometrics*
 - Elected Fellow of the Society for Economic Measurement (SEM)
