@@ -33,7 +33,7 @@ On this site you will find information on my [publications](/publications/), [wo
 
 ## Awards & Rankings
 
-- Winner of the 2024 Kurt-Zopf-FÃ¶rderpreis awarded by the University of Salzburg
+- Winner of the 2024 Kurt-Zopf-Förderpreis awarded by the University of Salzburg
 - 2023 Distinguished Author of the *Journal of Applied Econometrics*
 - Elected Fellow of the Society for Economic Measurement (SEM)
 - Best Paper Award of the *Scottish Journal of Political Economy*
