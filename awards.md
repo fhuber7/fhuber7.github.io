@@ -23,5 +23,6 @@ author_profile: true
 - *Wirtschaftswoche / Forschungsmonitoring* Ranking: Rank 28 (author ranking, 5 years); Rank 11 (young authors)
 - IDEAS RePEc
     - Top Economists (worldwide, publications in last 10 years): Rank 516 (as of February 2026)
+    - Top Economists (worldwide, 15 years or less): Rank 46 (as of February 2026)
+    - Top Economists (Austria, publications in last 10 years): Rank 4 (as of February 2026)
     - Economist ranking by cohorts (worldwide, cohort of 2015): Rank 9 (as of February 2026)
-    - Top 100 Economists (worldwide, 5 years or less, 2018): Average rank 9
