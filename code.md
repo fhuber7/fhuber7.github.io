@@ -40,8 +40,4 @@ This page collects software packages and replication code for my research, writt
 
 - **Should I Stay or Should I Go? A Latent Threshold Approach to Large-scale Mixture Innovation Models**, with G. Kastner and M. Feldkircher (*Journal of Applied Econometrics*, 2019). Latent-threshold TVP-VAR with stochastic volatility; includes the `threshtvp` R package source. [GitHub](https://github.com/fhuber7/replication-archive/tree/main/ThreshTVP_replication).
 
-- **Inducing Sparsity and Shrinkage in Time-Varying Parameter Models**, with G. Koop and L. Onorante (*JBES*). Univariate and multivariate state-space models using the SAVS estimator.
-
-- **Spillovers from US Monetary Policy: Evidence from a Time-varying Parameter GVAR Model**, with J. Crespo Cuaresma, G. Doppelhofer and M. Feldkircher (*JRSS A*, 2019). Inference in a TTVP-GVAR model. *Caution:* high-dimensional — cluster computing recommended.
-
-- **The International Transmission of US Shocks — Evidence from Global Vector Autoregressions**, with M. Feldkircher (*EER*, 2016). Estimates a GVAR with Bayesian shrinkage priors and sign-restricted impulse responses.
+- **Inducing Sparsity and Shrinkage in Time-Varying Parameter Models**, with G. Koop and L. Onorante (*JBES*, 2021). TVP-VAR with global-local shrinkage priors (Horseshoe, LASSO, Normal-Gamma, SSVS, Dirichlet-Laplace) and SAVS post-processing for exact sparsification of time-varying coefficients. [GitHub](https://github.com/fhuber7/replication-archive/tree/main/SAVS_TVP_VARs_replication).
