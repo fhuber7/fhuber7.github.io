@@ -6,19 +6,44 @@ author_profile: true
 classes: wide
 ---
 
-This page contains replication codes for some of my papers, written in R and Rcpp. Most of them are easy to use and allow to replicate the main findings of the corresponding paper. Note that these models are fairly complex and some knowledge of Bayesian econometrics / statistics is needed to understand the effect of priors. I do not offer any support for these codes. Although I try to keep them error-free, I can't guarantee this — if you find an error, please contact me.
+This page collects software packages and replication code for my research, written in R and Rcpp. The replication packages are self-contained and reproduce the main results of the corresponding paper on simulated data. Note that these models are fairly complex and some knowledge of Bayesian econometrics / statistics is needed to understand the effect of priors. I do not offer any support for these codes. Although I try to keep them error-free, I can't guarantee this — if you find an error, please contact me.
 
 > **Note:** some of the codes below rely on an older version of the R package `stochvol` and may be incompatible with the latest version. A workable solution is to install an older version of `stochvol` (2.0.4).
 
-## Packages and replication code
+## R packages
 
-- **BART-based VARs** — R code for estimating various BART-based VAR versions, as proposed in Clark et al. (2023, *IER*).
 - **BGVAR** — R toolbox for fast and easy estimation of Bayesian GVAR models. Includes several priors, stochastic volatility, and functions for forecasting and structural analysis. [CRAN](https://cran.r-project.org/package=BGVAR) (with a detailed vignette).
-- **Nowcasting in a Pandemic using Non-Parametric Mixed-frequency VARs**, with G. Koop, M. Pfarrhofer, L. Onorante and J. Schreiner (*Journal of Econometrics*, forthcoming). Estimates the mixed-frequency BAVART model and, beyond the paper, more general BART-based VARs via our SVD-based algorithm with mixture state-equations. [GitHub](https://github.com/mpfarrho/mf-bavart).
-- **Investigating Growth-at-Risk Using a Multicountry Non-parametric Quantile Factor Model**, with M. Pfarrhofer (*JBES*, 2024). R code implementing the QF-BART model for jointly estimating quantiles of GDP growth across multiple countries using nonparametric Bayesian methods and a common factor structure. [GitHub](https://github.com/mpfarrho/qf-bart).
+
+## Replication code
+
+- **BART-based VARs** — R code for estimating various BART-based VAR versions (BART, mixBART, flexBART, fullBART) with factor stochastic volatility, as proposed in Clark, Huber, Koop, Marcellino and Pfarrhofer (2023, *International Economic Review*). [GitHub](https://github.com/fhuber7/bart-mixbart) &#124; [GitHub (replication archive)](https://github.com/fhuber7/replication-archive/tree/main/mixBART_replication).
+
+- **Bayesian Nonparametric VARs** — R code for Bayesian VARs with Dirichlet-process mixture shocks and optional idiosyncratic stochastic volatility, as in Huber and Koop (2024, *Journal of Applied Econometrics*). [GitHub](https://github.com/fhuber7/bnp-vars) &#124; [GitHub (replication archive)](https://github.com/fhuber7/replication-archive/tree/main/BNPVAR_replication).
+
+- **Forecasting US Inflation using Bayesian Nonparametric Models** — R code for inflation forecasting with GP-subspace, BART, and UCSV specifications under Dirichlet-process mixture shocks, as in Clark, Huber, Koop and Marcellino (2024, *Annals of Applied Statistics*). [GitHub](https://github.com/fhuber7/subspace-inflation-bnp) &#124; [GitHub (replication archive)](https://github.com/fhuber7/replication-archive/tree/main/SubspaceInflation_replication).
+
+- **Gaussian Process VARs** — R code for a nonparametric VAR with Gaussian-process conditional means, equation-wise stochastic volatility, and horseshoe-shrunk structural covariance. [GitHub](https://github.com/fhuber7/replication-archive/tree/main/GPVAR_replication).
+
+- **Nowcasting in a Pandemic using Non-Parametric Mixed-frequency VARs**, with G. Koop, M. Pfarrhofer, L. Onorante and J. Schreiner (*Journal of Econometrics*, forthcoming). Estimates the mixed-frequency BAVART model and more general BART-based VARs via an SVD-based algorithm with mixture state-equations. [GitHub](https://github.com/mpfarrho/mf-bavart).
+
+- **Investigating Growth-at-Risk Using a Multicountry Non-parametric Quantile Factor Model**, with M. Pfarrhofer (*JBES*, 2024). R code implementing the QF-BART model for jointly estimating quantiles of GDP growth across multiple countries. [GitHub](https://github.com/mpfarrho/qf-bart).
+
+- **Adaptive Shrinkage in Bayesian Vector Autoregressive Models**, with M. Feldkircher (*JBES*, 2019). Estimates a VAR with a hierarchical Normal-Gamma shrinkage prior (and alternative priors) on the autoregressive coefficients with stochastic volatility. [GitHub](https://github.com/fhuber7/replication-archive/tree/main/NGVAR_replication).
+
+- **Approximate Bayesian Inference and Forecasting in Huge-dimensional Multi-country VARs**, with M. Feldkircher, G. Koop and M. Pfarrhofer. Implements the Integrated Rotated Gaussian Approximation (IRGA) strategy for very large multi-country VARs combining Horseshoe-prior MCMC with VAMP. [GitHub](https://github.com/fhuber7/replication-archive/tree/main/PVAR_IRGA_replication).
+
+- **Combining Shrinkage and Sparsity in Conjugate Vector Autoregressive Models**, with N. Hauzenberger and L. Onorante (*Journal of Applied Econometrics*, 2020). Conjugate Bayesian VAR with Minnesota dummy-observation priors and SAVS post-processing sparsification. [GitHub](https://github.com/fhuber7/replication-archive/tree/main/SparseVAR_replication).
+
+- **Subspace Shrinkage in Conjugate Bayesian Vector Autoregressions**, with G. Koop (*Journal of Applied Econometrics*, forthcoming). Conjugate matrix-Normal / Inverse-Wishart VAR with a convex combination of a Minnesota prior and a principal-component subspace projection. [GitHub](https://github.com/fhuber7/replication-archive/tree/main/SubspaceVAR_replication).
+
+- **Threshold Cointegration in International Exchange Rates: A Bayesian Approach**, with T. O. Zörner (*International Journal of Forecasting*, 2019). Estimates a three-regime threshold Bayesian vector error correction model (TBVECM). [GitHub](https://github.com/fhuber7/replication-archive/tree/main/TBVECM_replication).
+
+- **Fast and Flexible Bayesian Inference in Time-Varying Parameter Regression Models**, with N. Hauzenberger, G. Koop and L. Onorante (*JBES*, 2021). SVD-based fast sampler for TVP regressions with sparse-mixture g-prior on the coefficients. [GitHub](https://github.com/fhuber7/replication-archive/tree/main/TVPSVD_replication).
+
+- **Should I Stay or Should I Go? A Latent Threshold Approach to Large-scale Mixture Innovation Models**, with G. Kastner and M. Feldkircher (*Journal of Applied Econometrics*, 2019). Latent-threshold TVP-VAR with stochastic volatility; includes the `threshtvp` R package source. [GitHub](https://github.com/fhuber7/replication-archive/tree/main/ThreshTVP_replication).
+
 - **Inducing Sparsity and Shrinkage in Time-Varying Parameter Models**, with G. Koop and L. Onorante (*JBES*). Univariate and multivariate state-space models using the SAVS estimator.
-- **Should I stay or should I go? A latent threshold approach to large-scale mixture innovation models**, with G. Kastner and M. Feldkircher (*JAE*, 2019). R package for the TTVP regression model (including a VAR variant) and impulse-response analysis.
-- **Adaptive shrinkage in Bayesian vector autoregressive models**, with M. Feldkircher (*JBES*, 2019). Estimates a VAR with a Normal-Gamma prior (and alternative priors) plus impulse responses and forecasts.
-- **Threshold cointegration in international exchange rates: a Bayesian approach**, with T. O. Zörner (*IJF*, 2019). Estimates a threshold VECM; includes the original dataset.
-- **Spillovers from US monetary policy: Evidence from a time-varying parameter GVAR model**, with J. Crespo Cuaresma, G. Doppelhofer and M. Feldkircher (*JRSS A*, 2019). Inference in a TTVP-GVAR model. *Caution:* high-dimensional — cluster computing recommended.
+
+- **Spillovers from US Monetary Policy: Evidence from a Time-varying Parameter GVAR Model**, with J. Crespo Cuaresma, G. Doppelhofer and M. Feldkircher (*JRSS A*, 2019). Inference in a TTVP-GVAR model. *Caution:* high-dimensional — cluster computing recommended.
+
 - **The International Transmission of US Shocks — Evidence from Global Vector Autoregressions**, with M. Feldkircher (*EER*, 2016). Estimates a GVAR with Bayesian shrinkage priors and sign-restricted impulse responses.
