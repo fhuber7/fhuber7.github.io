@@ -10,16 +10,18 @@ See also my [working papers and work in progress](/working-papers/).
 
 ## Publications in international refereed journals
 
-### 2025 & Forthcoming
-- *Forecasting Natural Gas Prices in Real Time*, with C. Baumeister, T.K. Lee, F. Ravazzolo. **Journal of Applied Econometrics**, forthcoming.
-- *Nowcasting economic activity in European regions using a mixed-frequency dynamic factor model*, with L. Barbaglia, L. Frattarolo, N. Hauzenberger, D. Hirschbuehl, L. Onorante, M. Pfarrhofer and L. Tiozzo Pezzoli. **International Journal of Forecasting**, forthcoming.
-- *Predictive Density Combination Using a Tree-Based Synthesis Function*, with T. Chernis, N. Hauzenberger, G. Koop and J. Mitchell. **International Economic Review**, forthcoming.
-- *Bayesian Neural Networks for Macroeconomic Analysis*, with N. Hauzenberger, K. Klieber and M. Marcellino. **Journal of Econometrics**, forthcoming.
-- *Machine Learning the Macroeconomic Effects of Financial Shocks*, with N. Hauzenberger, K. Klieber and M. Marcellino. **Economics Letters**, forthcoming.
-- *A tale of two tails: 130 years of growth-at-risk*, with M. Gächter and E. Hasler. **Macroeconomic Dynamics**, forthcoming.
-- *Fast and Order-invariant Inference in Bayesian VARs with Non-Parametric Shocks*, with G. Koop. **Journal of Applied Econometrics**, forthcoming.
+### 2026
+- *Forecasting Natural Gas Prices in Real Time*, with C. Baumeister, T.K. Lee, F. Ravazzolo. **Journal of Applied Econometrics**, 41/2 (2026): 139–155.
+- *Nowcasting economic activity in European regions using a mixed-frequency dynamic factor model*, with L. Barbaglia, L. Frattarolo, N. Hauzenberger, D. Hirschbuehl, L. Onorante, M. Pfarrhofer and L. Tiozzo Pezzoli. **International Journal of Forecasting**, 42/2 (2026): 657–672.
+
+### 2025
+- *Predictive Density Combination Using a Tree-Based Synthesis Function*, with T. Chernis, N. Hauzenberger, G. Koop and J. Mitchell. **International Economic Review**, 66/3 (2025): 1287–1315.
+- *Bayesian Neural Networks for Macroeconomic Analysis*, with N. Hauzenberger, K. Klieber and M. Marcellino. **Journal of Econometrics**, 249/C (2025).
+- *Machine Learning the Macroeconomic Effects of Financial Shocks*, with N. Hauzenberger, K. Klieber and M. Marcellino. **Economics Letters**, 250 (2025).
+- *A tale of two tails: 130 years of growth-at-risk*, with M. Gächter and E. Hasler. **Macroeconomic Dynamics**, 29 (2025).
 
 ### 2024
+- *Fast and Order-invariant Inference in Bayesian VARs with Non-Parametric Shocks*, with G. Koop. **Journal of Applied Econometrics**, 39/7 (2024): 1301–1320.
 - *Forecasting US Inflation using Bayesian Nonparametric Models*, with T. Clark, G. Koop and M. Marcellino. **Annals of Applied Statistics**, 18/2 (2024): 1421–1444.
 - *Investigating Growth at Risk Using a Multi-Country Non-parametric Quantile Factor Model*, with T. Clark, G. Koop, M. Marcellino and M. Pfarrhofer. **Journal of Business & Economic Statistics**, 42/4 (2024): 1302–1317.
 - *Financial markets and legal challenges to unconventional monetary policy*, with S. Griller and M. Pfarrhofer. **European Economic Review**, 163 (2024): ID 104680.
@@ -81,7 +83,7 @@ See also my [working papers and work in progress](/working-papers/).
 
 ## Other refereed / policy publications
 
-- *A Shot for the US Economy*, with M. Gächter and M. Meier. **Finance Research Letters**, forthcoming.
+- *A Shot for the US Economy*, with M. Gächter and M. Meier. **Finance Research Letters**, 47 (2022).
 - *Predicting international equity returns: Evidence from time-varying parameter vector autoregressive models*, with R. Gupta and P. Piribauer. **International Review of Financial Analysis**, 68 (2020): ID 101456.
 - *The transmission of euro area interest rate shocks to Asia*, with M. Feldkircher. **Focus on European Economic Integration**.
 - *Macrofinancial Vulnerabilities in Emerging Europe*, with M. Eller and H. Schuberth. **Focus on European Economic Integration**, 1 (2016): 46–65.
