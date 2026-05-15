@@ -8,19 +8,17 @@ classes: wide
 
 This page collects software packages and replication code for my research, written in R and Rcpp. The replication packages are self-contained and reproduce the main results of the corresponding paper on simulated data. Note that these models are fairly complex and some knowledge of Bayesian econometrics / statistics is needed to understand the effect of priors. I do not offer any support for these codes. Although I try to keep them error-free, I can't guarantee this — if you find an error, please contact me.
 
-> **Note:** some of the codes below rely on an older version of the R package `stochvol` and may be incompatible with the latest version. A workable solution is to install an older version of `stochvol` (2.0.4).
-
 ## R packages
 
 - **BGVAR** — R toolbox for fast and easy estimation of Bayesian GVAR models. Includes several priors, stochastic volatility, and functions for forecasting and structural analysis. [CRAN](https://cran.r-project.org/package=BGVAR) (with a detailed vignette).
 
 ## Replication code
 
-- **BART-based VARs** — R code for estimating various BART-based VAR versions (BART, mixBART, flexBART, fullBART) with factor stochastic volatility, as proposed in Clark, Huber, Koop, Marcellino and Pfarrhofer (2023, *International Economic Review*). [GitHub](https://github.com/fhuber7/bart-mixbart) &#124; [GitHub (replication archive)](https://github.com/fhuber7/replication-archive/tree/main/mixBART_replication).
+- **BART-based VARs** — R code for estimating various BART-based VAR versions (BART, mixBART, flexBART, fullBART) with factor stochastic volatility, as proposed in Clark, Huber, Koop, Marcellino and Pfarrhofer (2023, *International Economic Review*). [GitHub](https://github.com/fhuber7/replication-archive/tree/main/mixBART_replication).
 
-- **Bayesian Nonparametric VARs** — R code for Bayesian VARs with Dirichlet-process mixture shocks and optional idiosyncratic stochastic volatility, as in Huber and Koop (2024, *Journal of Applied Econometrics*). [GitHub](https://github.com/fhuber7/bnp-vars) &#124; [GitHub (replication archive)](https://github.com/fhuber7/replication-archive/tree/main/BNPVAR_replication).
+- **Bayesian Nonparametric VARs** — R code for Bayesian VARs with Dirichlet-process mixture shocks and optional idiosyncratic stochastic volatility, as in Huber and Koop (2024, *Journal of Applied Econometrics*). [GitHub](https://github.com/fhuber7/replication-archive/tree/main/BNPVAR_replication).
 
-- **Forecasting US Inflation using Bayesian Nonparametric Models** — R code for inflation forecasting with GP-subspace, BART, and UCSV specifications under Dirichlet-process mixture shocks, as in Clark, Huber, Koop and Marcellino (2024, *Annals of Applied Statistics*). [GitHub](https://github.com/fhuber7/subspace-inflation-bnp) &#124; [GitHub (replication archive)](https://github.com/fhuber7/replication-archive/tree/main/SubspaceInflation_replication).
+- **Forecasting US Inflation using Bayesian Nonparametric Models** — R code for inflation forecasting with GP-subspace, BART, and UCSV specifications under Dirichlet-process mixture shocks, as in Clark, Huber, Koop and Marcellino (2024, *Annals of Applied Statistics*). [GitHub](https://github.com/fhuber7/replication-archive/tree/main/SubspaceInflation_replication).
 
 - **Gaussian Process VARs** — R code for a nonparametric VAR with Gaussian-process conditional means, equation-wise stochastic volatility, and horseshoe-shrunk structural covariance. [GitHub](https://github.com/fhuber7/replication-archive/tree/main/GPVAR_replication).
 
