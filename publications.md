@@ -27,7 +27,7 @@ See also my [working papers and work in progress](/working-papers/).
 - *Financial markets and legal challenges to unconventional monetary policy*, with S. Griller and M. Pfarrhofer. **European Economic Review**, 163 (2024): ID 104680.
 - *Forecasting Macroeconomic Tail Risks with Big Data Quantile Regressions*, with J. Prüser. **Journal of Applied Econometrics**, 39/2 (2024): 268–291.
 - *Forecasting euro area inflation using a huge panel of survey expectations*, with L. Onorante and M. Pfarrhofer. **International Journal of Forecasting**, 40/3 (2024): 1042–1054.
-- *Bayesian Forecasting in the 21st Century: A Modern Review*, with G. Martin, D. Frazier and others.
+- *Bayesian Forecasting in the 21st Century: A Modern Review*, with G. Martin, D. Frazier and others. **International Journal of Forecasting**, 40/2 (2024): 811–839.
 - *Sophisticated and Small Versus Simple and Sizeable: When Does It Pay Off to Introduce Drifting Coefficients in Bayesian VARs?*, with M. Feldkircher, L. Gruber and G. Kastner. **Journal of Forecasting**, 43/6 (2024): 2126–2145.
 
 ### 2023
