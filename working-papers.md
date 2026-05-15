@@ -21,3 +21,6 @@ classes: wide
 - **Oil, Inflation Expectations, and Household Characteristics: A Nonlinear Heterogeneous Agent VAR Approach**, with C. Baumeister, P. Frank and G. Koop (draft coming soon)
 - **Risky Oil: It's All in the Tails**, with C. Baumeister and M. Marcellino
 - **General Seemingly Unrelated Local Projections**, with C. Matthes and M. Pfarrhofer
+- **Beware of Large Shocks! A Non-Parametric Structural Inflation Model**, with E. Bobeica, S. Holton and C.M. Hernández
+- **Bayesian Nonlinear Regression Using Sums of Simple Functions**
+- **Hawks vs. Doves: ECB's Monetary Policy in Light of the Fed's Policy Stance**, with N. Hauzenberger and T. Zörner
