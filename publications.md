@@ -13,6 +13,7 @@ See also my [working papers and work in progress](/working-papers/).
 ### 2026
 - *Forecasting Natural Gas Prices in Real Time*, with C. Baumeister, T.K. Lee, F. Ravazzolo. **Journal of Applied Econometrics**, 41/2 (2026): 139–155.
 - *Nowcasting economic activity in European regions using a mixed-frequency dynamic factor model*, with L. Barbaglia, L. Frattarolo, N. Hauzenberger, D. Hirschbuehl, L. Onorante, M. Pfarrhofer and L. Tiozzo Pezzoli. **International Journal of Forecasting**, 42/2 (2026): 657–672.
+- *Forecasting and Modeling Macroeconomic Vulnerabilities in CESEE*, with J. Schreiner. **Journal of Forecasting**, 45/1 (2026): 366–376.
 
 ### 2025
 - *Predictive Density Combination Using a Tree-Based Synthesis Function*, with T. Chernis, N. Hauzenberger, G. Koop and J. Mitchell. **International Economic Review**, 66/3 (2025): 1287–1315.
