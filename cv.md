@@ -58,9 +58,9 @@ classes: wide
 
 ## Rankings
 
-- **2025** — 2539 citations, 2086 citations since 2020, h-index: 28, i10-index: 53 (Google Scholar, January 2025)
-- **2025** — Rank 92 Young Authors (≤15 years), Rank 6 (Cohort of 2015), Rank 2 (Austria, 10 years) (IDEAS/RePEc, May 2025)
-- **2023** — Rank 30 Author & Rank 12 Young Economist Ranking (Wirtschaftswoche/Forschungsmonitoring)
+- 2994 citations, 2345 citations since 2021, h-index: 30, i10-index: 61 (Google Scholar)
+- Rank 59 Young Authors (≤10 years), Rank 59 Young Authors (≤15 years), Rank 4 (Austria, 10 years), Rank 25 (Austria) (IDEAS/RePEc)
+- Rank 30 Author & Rank 12 Young Economist Ranking (Wirtschaftswoche/Forschungsmonitoring)
 
 ## Commissions of trust
 
