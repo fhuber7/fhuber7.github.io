@@ -13,6 +13,7 @@ See also my [working papers and work in progress](/working-papers/).
 ### 2026
 - *Forecasting Natural Gas Prices in Real Time*, with C. Baumeister, T.K. Lee, F. Ravazzolo. **Journal of Applied Econometrics**, 41/2 (2026): 139–155. DOI: [10.1002/jae.70018](https://doi.org/10.1002/jae.70018)
 - *Nowcasting economic activity in European regions using a mixed-frequency dynamic factor model*, with L. Barbaglia, L. Frattarolo, N. Hauzenberger, D. Hirschbuehl, L. Onorante, M. Pfarrhofer and L. Tiozzo Pezzoli. **International Journal of Forecasting**, 42/2 (2026): 657–672. DOI: [10.1016/j.ijforecast.2025.09.006](https://doi.org/10.1016/j.ijforecast.2025.09.006)
+- *Forecasting and Modeling Macroeconomic Vulnerabilities in CESEE*, with J. Schreiner. **Journal of Forecasting**, 45/1 (2026): 366–376. DOI: [10.1002/for.70038](https://doi.org/10.1002/for.70038)
 
 ### 2025
 - *Predictive Density Combination Using a Tree-Based Synthesis Function*, with T. Chernis, N. Hauzenberger, G. Koop and J. Mitchell. **International Economic Review**, 66/3 (2025): 1287–1315. DOI: [10.1111/iere.12759](https://doi.org/10.1111/iere.12759)
@@ -27,7 +28,7 @@ See also my [working papers and work in progress](/working-papers/).
 - *Financial markets and legal challenges to unconventional monetary policy*, with S. Griller and M. Pfarrhofer. **European Economic Review**, 163 (2024): ID 104680. DOI: [10.1016/j.euroecorev.2024.104680](https://doi.org/10.1016/j.euroecorev.2024.104680)
 - *Forecasting Macroeconomic Tail Risks with Big Data Quantile Regressions*, with J. Prüser. **Journal of Applied Econometrics**, 39/2 (2024): 268–291. DOI: [10.1002/jae.3018](https://doi.org/10.1002/jae.3018)
 - *Forecasting euro area inflation using a huge panel of survey expectations*, with L. Onorante and M. Pfarrhofer. **International Journal of Forecasting**, 40/3 (2024): 1042–1054. DOI: [10.1016/j.ijforecast.2023.09.003](https://doi.org/10.1016/j.ijforecast.2023.09.003)
-- *Bayesian Forecasting in the 21st Century: A Modern Review*, with G. Martin, D. Frazier and others. **International Journal of Forecasting**, 40/2 (2024): 431–468. DOI: [10.1016/j.ijforecast.2023.05.002](https://doi.org/10.1016/j.ijforecast.2023.05.002)
+- *Bayesian Forecasting in the 21st Century: A Modern Review*, with G. Martin, D. Frazier and others. **International Journal of Forecasting**, 40/2 (2024): 811–839. DOI: [10.1016/j.ijforecast.2023.05.002](https://doi.org/10.1016/j.ijforecast.2023.05.002)
 - *Sophisticated and Small Versus Simple and Sizeable: When Does It Pay Off to Introduce Drifting Coefficients in Bayesian VARs?*, with M. Feldkircher, L. Gruber and G. Kastner. **Journal of Forecasting**, 43/6 (2024): 2126–2145. DOI: [10.1002/for.3121](https://doi.org/10.1002/for.3121)
 
 ### 2023
