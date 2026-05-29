@@ -20,11 +20,11 @@ This page collects software packages and replication code for my research, writt
 
 - **Forecasting US Inflation using Bayesian Nonparametric Models** — R code for inflation forecasting with GP-subspace, BART, and UCSV specifications under Dirichlet-process mixture shocks, as in Clark, Huber, Koop and Marcellino (2024, *Annals of Applied Statistics*). [GitHub](https://github.com/fhuber7/replication-archive/tree/main/SubspaceInflation_replication).
 
-- **Gaussian Process VARs** — R code for a nonparametric VAR with Gaussian-process conditional means, equation-wise stochastic volatility, and horseshoe-shrunk structural covariance. [GitHub](https://github.com/fhuber7/replication-archive/tree/main/GPVAR_replication).
+- **Gaussian Process VARs**, with N. Hauzenberger, M. Marcellino and N. Petz (*JBES*, forthcoming) — R code for a nonparametric VAR with Gaussian-process conditional means, equation-wise stochastic volatility, and horseshoe-shrunk structural covariance. [GitHub](https://github.com/fhuber7/replication-archive/tree/main/GPVAR_replication).
 
 - **Nowcasting in a Pandemic using Non-Parametric Mixed-frequency VARs**, with G. Koop, M. Pfarrhofer, L. Onorante and J. Schreiner (*Journal of Econometrics*, forthcoming). Estimates the mixed-frequency BAVART model and more general BART-based VARs via an SVD-based algorithm with mixture state-equations. [GitHub](https://github.com/mpfarrho/mf-bavart).
 
-- **Investigating Growth-at-Risk Using a Multicountry Non-parametric Quantile Factor Model**, with M. Pfarrhofer (*JBES*, 2024). R code implementing the QF-BART model for jointly estimating quantiles of GDP growth across multiple countries. [GitHub](https://github.com/mpfarrho/qf-bart).
+- **Investigating Growth-at-Risk Using a Multicountry Non-parametric Quantile Factor Model**, with T. Clark, G. Koop, M. Marcellino and M. Pfarrhofer (*JBES*, 2024). R code implementing the QF-BART model for jointly estimating quantiles of GDP growth across multiple countries. [GitHub](https://github.com/mpfarrho/qf-bart).
 
 - **Adaptive Shrinkage in Bayesian Vector Autoregressive Models**, with M. Feldkircher (*JBES*, 2019). Estimates a VAR with a hierarchical Normal-Gamma shrinkage prior (and alternative priors) on the autoregressive coefficients with stochastic volatility. [GitHub](https://github.com/fhuber7/replication-archive/tree/main/NGVAR_replication).
 
