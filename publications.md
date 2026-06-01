@@ -10,18 +10,19 @@ See also my [working papers and work in progress](/working-papers/).
 
 ## Publications in international refereed journals
 
-### 2026
+### 2026 & forthcoming
 - *Forecasting Natural Gas Prices in Real Time*, with C. Baumeister, T.K. Lee, F. Ravazzolo. **Journal of Applied Econometrics**, 41/2 (2026): 139–155. DOI: [10.1002/jae.70018](https://doi.org/10.1002/jae.70018)
 - *Nowcasting economic activity in European regions using a mixed-frequency dynamic factor model*, with L. Barbaglia, L. Frattarolo, N. Hauzenberger, D. Hirschbuehl, L. Onorante, M. Pfarrhofer and L. Tiozzo Pezzoli. **International Journal of Forecasting**, 42/2 (2026): 657–672. DOI: [10.1016/j.ijforecast.2025.09.006](https://doi.org/10.1016/j.ijforecast.2025.09.006)
+- *Bayesian Modeling of TVP-VARs Using Regression Trees*, with N. Hauzenberger, G. Koop and J. Mitchell. **Annals of Applied Statistics**, forthcoming.
+- *Gaussian process vector autoregressions and macroeconomic uncertainty*, with N. Hauzenberger, M. Marcellino and N. Petz. **Journal of Business & Economic Statistics**, forthcoming. DOI: [10.1080/07350015.2024.2322089](https://doi.org/10.1080/07350015.2024.2322089)
+- *Introducing shrinkage in heavy-tailed state space models to predict equity excess returns*, with G. Kastner and M. Pfarrhofer. **Empirical Economics**, forthcoming. DOI: [10.1007/s00181-023-02437-3](https://doi.org/10.1007/s00181-023-02437-3)
+- *Forecasting and Modeling Macroeconomic Vulnerabilities in CESEE*, with J. Schreiner. **Journal of Forecasting**, forthcoming. DOI: [10.1002/for.70038](https://doi.org/10.1002/for.70038)
 
 ### 2025
 - *Predictive Density Combination Using a Tree-Based Synthesis Function*, with T. Chernis, N. Hauzenberger, G. Koop and J. Mitchell. **International Economic Review**, 66/3 (2025): 1287–1315. DOI: [10.1111/iere.12759](https://doi.org/10.1111/iere.12759)
 - *Bayesian Neural Networks for Macroeconomic Analysis*, with N. Hauzenberger, K. Klieber and M. Marcellino. **Journal of Econometrics**, 249/C (2025). DOI: [10.1016/j.jeconom.2024.105843](https://doi.org/10.1016/j.jeconom.2024.105843)
 - *Machine Learning the Macroeconomic Effects of Financial Shocks*, with N. Hauzenberger, K. Klieber and M. Marcellino. **Economics Letters**, 250 (2025). DOI: [10.1016/j.econlet.2025.112260](https://doi.org/10.1016/j.econlet.2025.112260)
 - *A tale of two tails: 130 years of growth-at-risk*, with M. Gächter and E. Hasler. **Macroeconomic Dynamics**, 29 (2025). DOI: [10.1017/S1365100524000476](https://doi.org/10.1017/S1365100524000476)
-- *Gaussian process vector autoregressions and macroeconomic uncertainty*, with N. Hauzenberger, M. Marcellino and N. Petz. **Journal of Business & Economic Statistics**, forthcoming. DOI: [10.1080/07350015.2024.2322089](https://doi.org/10.1080/07350015.2024.2322089)
-- *Introducing shrinkage in heavy-tailed state space models to predict equity excess returns*, with G. Kastner and M. Pfarrhofer. **Empirical Economics**, forthcoming. DOI: [10.1007/s00181-023-02437-3](https://doi.org/10.1007/s00181-023-02437-3)
-- *Forecasting and Modeling Macroeconomic Vulnerabilities in CESEE*, with J. Schreiner. **Journal of Forecasting**, forthcoming. DOI: [10.1002/for.70038](https://doi.org/10.1002/for.70038)
 
 ### 2024
 - *Fast and Order-invariant Inference in Bayesian VARs with Non-Parametric Shocks*, with G. Koop. **Journal of Applied Econometrics**, 39/7 (2024): 1301–1320. DOI: [10.1002/jae.3087](https://doi.org/10.1002/jae.3087)
