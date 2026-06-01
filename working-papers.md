@@ -8,7 +8,6 @@ classes: wide
 
 ## Working papers under revision
 
-- *Bayesian Modeling of TVP-VARs Using Regression Trees*, with N. Hauzenberger, G. Koop and J. Mitchell (revision requested, Annals of Applied Statistics). [arXiv:2209.11970](https://arxiv.org/abs/2209.11970)
 - *The Distributional Effects of Economic Uncertainty*, with T. Tornese and M. Marcellino (revision requested, International Economic Review). [arXiv:2411.12655](https://arxiv.org/abs/2411.12655)
 - *Asymmetries in International Financial Spillovers*, with K. Klieber, M. Marcellino, L. Onorante and M. Pfarrhofer (reject and resubmit, European Economic Review). [arXiv:2410.16214](https://arxiv.org/abs/2410.16214)
 - *Bayesian modelling of VAR precision matrices using stochastic block networks*, with G. Koop, M. Marcellino and T. Scheckel (revision requested, Journal of Applied Econometrics). [arXiv:2407.16349](https://arxiv.org/abs/2407.16349)
