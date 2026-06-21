@@ -8,6 +8,11 @@ classes: wide
 
 See also my [working papers and work in progress](/working-papers/).
 
+**Rankings summary (64 refereed publications, double-counting across systems):**
+- [ABDC Journal Quality List 2025](https://abdc.edu.au/abdc-journal-quality-list/): 25 A\*, 37 A, 2 B
+- [SCImago Journal Rank 2024](https://www.scimagojr.com/) (best quartile): 52 Q1, 9 Q2, 3 Q3
+- [Handelsblatt VWL-Ranking 2015](https://www.forschungsmonitoring.org/ranking/vwl/zeitschriften): 12 Cat A, 24 Cat B, 20 Cat C, 4 Cat D, 4 Cat E (total weight: 19.40)
+
 ## Publications in international refereed journals
 
 ### 2026 & forthcoming
