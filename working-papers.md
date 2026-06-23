@@ -12,7 +12,6 @@ classes: wide
 - *Asymmetries in International Financial Spillovers*, with K. Klieber, M. Marcellino, L. Onorante and M. Pfarrhofer (reject and resubmit, European Economic Review). [arXiv:2410.16214](https://arxiv.org/abs/2410.16214)
 - *Bayesian modelling of VAR precision matrices using stochastic block networks*, with G. Koop, M. Marcellino and T. Scheckel (revision requested, Journal of Applied Econometrics). [arXiv:2407.16349](https://arxiv.org/abs/2407.16349)
 - *Coarsened Bayesian VARs — Correcting BVARs for Incorrect Specification*, with M. Marcellino and T. Scheckel (revision requested, Journal of Business & Economic Statistics). [arXiv:2304.07856](https://arxiv.org/abs/2304.07856)
-- *Interpretable Bayesian machine learning for assessing the effects of climate news shocks on firm-level returns*, with L. Barbaglia, L. Frattarolo, N. Hauzenberger, D. Hirschbrühl, L. Onorante and M. Pfarrhofer (revision requested, Journal of Financial Econometrics).
 - *A Nonparametric Approach to Augmenting a Bayesian VAR with Nonlinear Factors*, with T. Clark and G. Koop (revision requested, Journal of Business & Economic Statistics). [arXiv:2508.13972](https://arxiv.org/abs/2508.13972)
 
 ## Selected working papers and work in progress
