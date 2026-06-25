@@ -47,7 +47,6 @@ See also my [working papers and work in progress](/working-papers/).
 ### 2022
 - *Approximate Bayesian Inference and Forecasting in Huge-dimensional Multi-country VARs*, with M. Feldkircher, G. Koop and M. Pfarrhofer. **International Economic Review**, 63/4 (2022): 1625–1658. DOI: [10.1111/iere.12577](https://doi.org/10.1111/iere.12577)
 - *BGVAR: Bayesian Global Vector Autoregressions with Shrinkage Priors in R*, with M. Böck and M. Feldkircher. **Journal of Statistical Software**, 104/9 (2022). DOI: [10.18637/jss.v104.i09](https://doi.org/10.18637/jss.v104.i09)
-- *shrinkTVP: Efficient Bayesian Inference for Time-Varying Parameter Models with Shrinkage Priors in R*, with M. Böck and M. Feldkircher. **Journal of Statistical Software**, 100/13 (2022). DOI: [10.18637/jss.v100.i13](https://doi.org/10.18637/jss.v100.i13)
 - *Fast and Flexible Bayesian Inference in Time-varying Parameter Regression Models*, with N. Hauzenberger, G. Koop and L. Onorante. **Journal of Business & Economic Statistics**, 40/4 (2022): 1904–1918. DOI: [10.1080/07350015.2021.1990772](https://doi.org/10.1080/07350015.2021.1990772)
 - *Inference in Bayesian Additive Vector Autoregressive Tree Models*, with L. Rossini. **Annals of Applied Statistics**, 16/1 (2022): 104–123. DOI: [10.1214/21-AOAS1488](https://doi.org/10.1214/21-AOAS1488)
 
