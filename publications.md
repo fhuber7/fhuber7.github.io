@@ -11,9 +11,9 @@ See also my [working papers and work in progress](/working-papers/).
 ## Publications in international refereed journals
 
 ### 2026 & forthcoming
+- *The Distributional Effects of Economic Uncertainty*, with T. Tornese and M. Marcellino. **International Economic Review**, forthcoming.
 - *Bayesian Modeling of TVP-VARs Using Regression Trees*, with N. Hauzenberger, G. Koop and J. Mitchell. **Annals of Applied Statistics**, forthcoming.
 - *Interpretable Bayesian machine learning for assessing the effects of climate news shocks on firm-level returns*, with L. Barbaglia, L. Frattarolo, N. Hauzenberger, D. Hirschbrühl, L. Onorante and M. Pfarrhofer. **Journal of Financial Econometrics**, forthcoming.
-- *The Distributional Effects of Economic Uncertainty*, with T. Tornese and M. Marcellino. **International Economic Review**, forthcoming.
 - *Forecasting Natural Gas Prices in Real Time*, with C. Baumeister, T.K. Lee, F. Ravazzolo. **Journal of Applied Econometrics**, 41/2 (2026): 139–155. DOI: [10.1002/jae.70018](https://doi.org/10.1002/jae.70018)
 - *Nowcasting economic activity in European regions using a mixed-frequency dynamic factor model*, with L. Barbaglia, L. Frattarolo, N. Hauzenberger, D. Hirschbuehl, L. Onorante, M. Pfarrhofer and L. Tiozzo Pezzoli. **International Journal of Forecasting**, 42/2 (2026): 657–672. DOI: [10.1016/j.ijforecast.2025.09.006](https://doi.org/10.1016/j.ijforecast.2025.09.006)
 - *Forecasting and Modeling Macroeconomic Vulnerabilities in CESEE*, with J. Schreiner. **Journal of Forecasting**, 45/1 (2026): 366–376. DOI: [10.1002/for.70038](https://doi.org/10.1002/for.70038)
