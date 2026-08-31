@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Awards
-
+- 2022-2023 Outstanding Paper Award of the *International Journal of Forecasting* for the paper "Real-time inflation forecasting using non-linear dimension reduction techniques"
 - Winner of the 2024 Kurt-Zopf-Förderpreis awarded by the University of Salzburg
 - 2023 Distinguished Author of the *Journal of Applied Econometrics*
 - Elected Fellow of the Society for Economic Measurement (SEM)
