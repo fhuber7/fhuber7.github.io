@@ -13,6 +13,8 @@ repository: "fhuber7/fhuber7.github.io"
 remote_theme: "mmistakes/minimal-mistakes@4.28.1"
 minimal_mistakes_skin: "default"
 search: false
+# University seal (white, cut from the official logo) left of the site title
+logo: "/assets/images/unisbg-seal-white.png"
 
 # Build settings
 markdown: kramdown
