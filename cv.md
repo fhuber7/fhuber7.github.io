@@ -45,31 +45,33 @@ classes: wide
 
 ## Awards and honors
 
-- **2024** — Journal of Applied Econometrics Distinguished Author
+- **2022–2023** — Outstanding Paper Award, *International Journal of Forecasting* (International Institute of Forecasters)
 - **2024** — Kurt-Zopf Förderpreis, University of Salzburg
-- **2023** — Elected member, Society for Economic Measurement (SEM)
+- **2023** — Journal of Applied Econometrics Distinguished Author
+- **2023** — Elected Fellow, Society for Economic Measurement (SEM)
 - **2022** — Best Paper Award, Scottish Journal of Political Economy
 - **2020** — Vladas Jurgutis Award, Bank of Lithuania
 - **2019** — Klaus Liebscher Economic Research Scholarship, Oesterreichische Nationalbank
-- **2019** — Ordinary member, European Academy of Arts & Sciences
+- **2019** — Ordinary member, European Academy of Sciences and Arts
 - **2018** — Young Economist Award, Austrian Economic Association
 - **2015** — Stephan Koren Prize (best dissertation at WU Vienna)
 - **2014** — Young Economist Award, Austrian Economic Association
 
 ## Rankings
 
-- 2994 citations, 2345 citations since 2021, h-index: 30, i10-index: 61 (Google Scholar)
-- Rank 59 Young Authors (≤10 years), Rank 59 Young Authors (≤15 years), Rank 4 (Austria, 10 years), Rank 25 (Austria) (IDEAS/RePEc)
-- Rank 30 Author & Rank 12 Young Economist Ranking (Wirtschaftswoche/Forschungsmonitoring)
+- 3225 citations, 2577 citations since 2021, h-index: 31, i10-index: 67 (Google Scholar, September 2026)
+- Rank 613 (worldwide, last 10 years), Rank 59 (worldwide, 15 years or less), Rank 4 (Austria, last 10 years), Rank 9 (cohort of 2015) (IDEAS/RePEc, April 2026)
+- Rank 28 Author (5 years) & Rank 11 Young Authors (Wirtschaftswoche/Forschungsmonitoring)
 
 ## Commissions of trust
 
-- **2022 – present** — Deputy Head, Department of Economics, University of Salzburg
+- **2026 – present** — Head, Department of Economics, University of Salzburg
 - **2022 – present** — Speaker of the Full Professors, Department of Economics, University of Salzburg
 - **2022 – present** — Head of the Curricular-Commission Economics & Business, University of Salzburg
 - **2022 – present** — Substitute Member of the Senate, University of Salzburg
 - **2019 – present** — Board Member, Austrian Economic Association
 - **2019 – present** — Board Member and Treasurer, Österreichische Gesellschaft für Europaforschung (ECSA Austria)
+- **2022 – 2026** — Deputy Head, Department of Economics, University of Salzburg
 - **2023 – 2024** — Member of the Scientific Committee, International Association for Applied Econometrics
 - **2018 – 2021** — Deputy Director, Salzburg Centre of European Union Studies, University of Salzburg
 
@@ -81,9 +83,9 @@ Economic forecasting, Bayesian econometrics, machine learning, empirical macroec
 
 *A full list of publications can be found [here](/publications/).*
 
-1. Predictive Density Combination Using Bayesian Machine Learning (with T. Chernis, N. Hauzenberger, G. Koop and J. Mitchell), **International Economic Review**, forthcoming.
+1. Predictive Density Combination Using Bayesian Machine Learning (with T. Chernis, N. Hauzenberger, G. Koop and J. Mitchell), **International Economic Review**, Vol. 66/3 (2025): 1287–1315. DOI: [10.1111/iere.12759](https://doi.org/10.1111/iere.12759)
 
-2. Bayesian Neural Networks for Macroeconomic Analysis (with N. Hauzenberger, K. Klieber and M. Marcellino), **Journal of Econometrics**, forthcoming. DOI: [10.1016/j.jeconom.2024.105843](https://doi.org/10.1016/j.jeconom.2024.105843)
+2. Bayesian Neural Networks for Macroeconomic Analysis (with N. Hauzenberger, K. Klieber and M. Marcellino), **Journal of Econometrics**, Vol. 249/C (2025). DOI: [10.1016/j.jeconom.2024.105843](https://doi.org/10.1016/j.jeconom.2024.105843)
 
 3. Gaussian Process Vector Autoregressions and Macroeconomic Uncertainty (with N. Hauzenberger, M. Marcellino and N. Petz), **Journal of Business & Economic Statistics**, Vol. 43/1 (2025): 27–43. DOI: [10.1080/07350015.2024.2322089](https://doi.org/10.1080/07350015.2024.2322089)
 
@@ -115,9 +117,11 @@ Economic forecasting, Bayesian econometrics, machine learning, empirical macroec
 
 ## Third-party projects
 
-- Research grant from the Austrian National Bank (OeNB), Grant No. 18304: *Between Fostering and Limiting Central Bank Independence: The Impact of Constitutional Court Decisions*, 2020–2022, EUR 118,000 (Principal Investigator).
-- Zukunftskolleg funded by the FWF, Grant No. ZK 35: *High-dimensional statistical learning: New methods to advance economic and sustainability policies*, 2019–2023, EUR 2,000,000 (with colleagues from WU, TU Vienna, University of Klagenfurt and WIFO; approx. EUR 500,000 Salzburg).
-- Research grant from the Austrian National Bank (OeNB), Grant No. 17650: *Modeling and forecasting exchange rates in a unified econometric framework*, 2018–2019, EUR 150,000 (Principal Investigator).
+- **Exploring the Macro-to-Micro Propagation of Aggregate Shocks: The Role of Nonlinearities and Heterogeneity.** PI. Total funding: ~€288,000, 2026–2029. Funded by the Jubiläumsfonds der Oesterreichischen Nationalbank (OeNB).
+- **High-dimensional statistical learning: New methods to advance economic and sustainability policies.** PI (together with colleagues from WU, TU Wien, WIFO). Total funding: €2,000,000, 2019–2024. Zukunftskolleg funded by the Austrian Science Fund (FWF). *Concluded.*
+- **Between fostering and limiting central bank independence: The impact of constitutional court decisions.** PI. Total funding: €118,000, 2020–2023. Funded by the Jubiläumsfonds der Oesterreichischen Nationalbank (OeNB). *Concluded.*
+- **The impact of fiscal policy on the term structure of interest rates within the Eurozone.** Co-PI (with Manfred M. Fischer, WU). Total funding: €195,000, 2019–2022. Funded by the Jubiläumsfonds der Oesterreichischen Nationalbank (OeNB). *Concluded.*
+- **Modeling and forecasting exchange rates in a unified econometric framework.** PI. Total funding: €150,000, 2018–2019. Funded by the Jubiläumsfonds der Oesterreichischen Nationalbank (OeNB). *Concluded.*
 
 ## Doctoral supervision
 
