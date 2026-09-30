@@ -1,51 +1,36 @@
 # fhuber7.github.io
 
-Personal academic homepage of Florian Huber, built with [Jekyll](https://jekyllrb.com/) and the default [Minima](https://github.com/jekyll/minima) theme — deployed via GitHub Pages.
+Personal academic homepage of Florian Huber, live at https://fhuber7.github.io. Built with [Jekyll](https://jekyllrb.com/) and the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme (loaded via `remote_theme`, pinned to a release in `_config.yml`). GitHub Pages builds and deploys the site directly from the `main` branch. This README is excluded from the built site.
 
 ## Structure
 
 ```
 .
-├── _config.yml        # site settings and nav
-├── index.md           # home page (bio, awards, contact)
-├── publications.md    # full publication list
-├── research.md        # current research & funded projects
-├── code.md            # replication code / R packages
-├── cv.md              # short CV
-├── teaching.md        # teaching history
-├── assets/css/        # minimal SCSS overrides
-├── Gemfile            # Ruby dependencies (for local preview)
-└── README.md
-```
-
-## Deploying to GitHub Pages
-
-1. Create a **public** repository named `YOURUSER.github.io` (e.g. `fhuber7.github.io`).
-2. Copy all files in this folder into the repo (or push from this folder directly).
-3. On GitHub: **Settings → Pages → Source → Deploy from a branch → `main` / `/ (root)` → Save**.
-4. Within a minute or two the site will be live at `https://YOURUSER.github.io`.
-
-### Pushing from the command line
-
-```bash
-cd fhuber-github-page
-git init
-git add .
-git commit -m "Initial site"
-git branch -M main
-git remote add origin https://github.com/YOURUSER/YOURUSER.github.io.git
-git push -u origin main
-```
-
-## Previewing locally (optional)
-
-```bash
-# Install Ruby + bundler first, then:
-bundle install
-bundle exec jekyll serve
-# → http://localhost:4000
+├── _config.yml                 # site settings, theme, author sidebar links
+├── _data/navigation.yml        # top navigation
+├── _includes/head/custom.html  # sidebar styling and link behaviour
+├── index.md                    # home page
+├── publications.md             # journal articles, other publications, book chapters
+├── working-papers.md           # papers under revision and work in progress
+├── research.md                 # third-party funding
+├── awards.md                   # awards and rankings
+├── code.md                     # R packages and replication code
+├── cv.md                       # CV (repeats awards, rankings, funding and top papers)
+├── assets/images/profile.jpg   # sidebar photo
+└── Gemfile                     # Ruby dependencies (local preview only)
 ```
 
 ## Editing content
 
-All pages are plain **Markdown**. Just edit the `.md` files and commit — GitHub Pages will rebuild the site automatically.
+All pages are plain Markdown. Commit to `main` and GitHub Pages rebuilds the site within a minute or two.
+
+- `cv.md` repeats information from `awards.md`, `publications.md` and `research.md`. Update it whenever those change.
+- Check a deploy with `gh api repos/fhuber7/fhuber7.github.io/pages/builds/latest` or on the live page. Do not use `raw.githubusercontent.com`, which can serve stale copies.
+- To update the theme, change the release tag in `remote_theme` deliberately and check the live site afterwards.
+
+## Previewing locally (optional)
+
+```bash
+bundle install
+bundle exec jekyll serve   # then open http://localhost:4000
+```

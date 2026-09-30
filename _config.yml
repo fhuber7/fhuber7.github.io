@@ -8,8 +8,9 @@ baseurl: ""
 url: "https://fhuber7.github.io"
 repository: "fhuber7/fhuber7.github.io"
 
-# Theme: minimal-mistakes (the base for academicpages) via remote_theme
-remote_theme: "mmistakes/minimal-mistakes@master"
+# Theme: minimal-mistakes (the base for academicpages) via remote_theme,
+# pinned to a release so upstream changes cannot alter the site unannounced
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
 minimal_mistakes_skin: "default"
 search: false
 
@@ -72,6 +73,7 @@ defaults:
       comments: false
 
 exclude:
+  - README.md
   - Gemfile
   - Gemfile.lock
   - vendor
