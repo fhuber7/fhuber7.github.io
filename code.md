@@ -30,6 +30,8 @@ This page collects software packages and replication code for my research, writt
 
 - **Investigating Growth-at-Risk Using a Multicountry Non-parametric Quantile Factor Model**, with T. Clark, G. Koop, M. Marcellino and M. Pfarrhofer (*JBES*, 2024). R code implementing the QF-BART model for jointly estimating quantiles of GDP growth across multiple countries. [GitHub](https://github.com/mpfarrho/qf-bart).
 
+- **Dynamic Shrinkage in Time-Varying Parameter Stochastic Volatility in Mean Models**, with M. Pfarrhofer (*Journal of Applied Econometrics*, 2021). R code for stochastic volatility in mean models with time-varying parameters and dynamic shrinkage priors (dynamic horseshoe and alternatives), illustrated on US CPI inflation. [GitHub](https://github.com/mpfarrho/svm-tvp-ds).
+
 - **Adaptive Shrinkage in Bayesian Vector Autoregressive Models**, with M. Feldkircher (*JBES*, 2019). Estimates a VAR with a hierarchical Normal-Gamma shrinkage prior (and alternative priors) on the autoregressive coefficients with stochastic volatility. [GitHub](https://github.com/fhuber7/replication-archive/tree/main/NGVAR_replication).
 
 - **Approximate Bayesian Inference and Forecasting in Huge-dimensional Multi-country VARs**, with M. Feldkircher, G. Koop and M. Pfarrhofer (*International Economic Review*, 2022). Implements the Integrated Rotated Gaussian Approximation (IRGA) strategy for very large multi-country VARs combining Horseshoe-prior MCMC with VAMP. [GitHub](https://github.com/fhuber7/replication-archive/tree/main/PVAR_IRGA_replication).
