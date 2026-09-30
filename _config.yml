@@ -30,7 +30,7 @@ plugins:
 # Author sidebar (left column on every page)
 author:
   name: "Florian Huber"
-  avatar: "/assets/images/profile.jpg"
+  avatar: "/assets/images/profile-avatar.jpg"
   bio: "Professor of Economics<br/>University of Salzburg<br/><br/>Department of Economics<br/>Mönchsberg 2a<br/>5020 Salzburg"
   location: "Salzburg, Austria"
   email: "florian.huber@plus.ac.at"
